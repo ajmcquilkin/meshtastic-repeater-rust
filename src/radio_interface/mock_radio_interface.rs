@@ -1,5 +1,3 @@
-use crate::protobufs;
-
 use super::RadioInterface;
 
 #[derive(Debug, Default)]
